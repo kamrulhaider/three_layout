@@ -1,0 +1,30 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	float: left;
+	width: 33.33%;
+	min-height: 200px;
+}
+.color1{
+	background-color: #7e8504;
+	color: white;
+}
+.color2{
+	background-color: #047285;
+	color: white;
+}
+.color3{
+	background-color: #76189e;
+	color: white;
+}
+.footer{
+	/*clear: both;*/
+	min-height: 100px;
+	background-color: black;
+	color: white;
+}
